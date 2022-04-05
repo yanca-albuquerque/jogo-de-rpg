@@ -1,0 +1,15 @@
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\jogo-de-rpg\obj\Debug\net6.0\jogo-de-rpg.csproj.AssemblyReference.cache
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\jogo-de-rpg\obj\Debug\net6.0\jogo-de-rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\jogo-de-rpg\obj\Debug\net6.0\jogo-de-rpg.AssemblyInfoInputs.cache
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\jogo-de-rpg\obj\Debug\net6.0\jogo-de-rpg.AssemblyInfo.cs
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\jogo-de-rpg\obj\Debug\net6.0\jogo-de-rpg.csproj.CoreCompileInputs.cache
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\jogo-de-rpg\bin\Debug\net6.0\jogo-de-rpg.exe
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\jogo-de-rpg\bin\Debug\net6.0\jogo-de-rpg.deps.json
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\jogo-de-rpg\bin\Debug\net6.0\jogo-de-rpg.runtimeconfig.json
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\jogo-de-rpg\bin\Debug\net6.0\jogo-de-rpg.dll
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\jogo-de-rpg\bin\Debug\net6.0\jogo-de-rpg.pdb
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\jogo-de-rpg\obj\Debug\net6.0\jogo-de-rpg.dll
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\jogo-de-rpg\obj\Debug\net6.0\refint\jogo-de-rpg.dll
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\jogo-de-rpg\obj\Debug\net6.0\jogo-de-rpg.pdb
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\jogo-de-rpg\obj\Debug\net6.0\jogo-de-rpg.genruntimeconfig.cache
+C:\Users\yanca\OneDrive\Área de Trabalho\DIO\Projetos\jogo-de-rpg\obj\Debug\net6.0\ref\jogo-de-rpg.dll
